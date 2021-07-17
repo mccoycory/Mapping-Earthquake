@@ -8,7 +8,7 @@ For this challenge, we were tasked with using Mapbox and Java Script to create a
 
 From the layers, we created a selector box where we were able to quickly add and remove layers from the base map. This additional functionality allows the user to drill down and reserach specific data. Below is a screenshot of the dropdown options from the dashboard.
 
-![Dropdown]()
+![Dropdown](https://github.com/mccoycory/Mapping-Earthquake/blob/main/Earthquake_Challenge/Legand%20%26%20Dropdown.png)
 
 # Dashboard Screenshot 
 
