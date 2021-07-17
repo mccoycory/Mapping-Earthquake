@@ -6,7 +6,9 @@ For this challenge, we were tasked with using Mapbox and Java Script to create a
 
 # Dropdown/ Selector 
 
-From the layers, we created a selector box where we were able to quickly add and remove layers from the base map. This additional functionality allows the user to drill down and reserach specific data. 
+From the layers, we created a selector box where we were able to quickly add and remove layers from the base map. This additional functionality allows the user to drill down and reserach specific data. Below is a screenshot of the dropdown options from the dashboard.
+
+![Dropdown]()
 
 # Dashboard Screenshot 
 
